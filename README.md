@@ -15,4 +15,4 @@ The project is being built using:
 
 ## Note
 
-The project is still under construction
+The project is new and still under construction
